@@ -1,4 +1,5 @@
 👋 Hello, I'm Diwakar Mishra
+
 📌 About Me
 🎓 CSE - AIML Student | 🧠 AI Enthusiast | 💻 2nd Year B.Tech
 I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning from Vellore Institute of Technology,Bhopal. With a strong foundation in Python, C++, and problem-solving skills, I’m constantly expanding my skill set and taking on projects that merge creativity with technology. Currently, I’m focused on gaining real-world experience through an internship, honing my skills in practical applications, and contributing to meaningful tech innovations.
