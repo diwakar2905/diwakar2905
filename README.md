@@ -1,30 +1,29 @@
-👋 Hello, I'm Diwakar Mishra
+<h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-📌 About Me
-🎓 CSE - AIML Student | 🧠 AI Enthusiast | 💻 2nd Year B.Tech
-I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning from Vellore Institute of Technology,Bhopal. With a strong foundation in Python, C++, and problem-solving skills, I’m constantly expanding my skill set and taking on projects that merge creativity with technology. Currently, I’m focused on gaining real-world experience through an internship, honing my skills in practical applications, and contributing to meaningful tech innovations.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakar2905&label=Profile%20views&color=0e75b6&style=flat" alt="diwakar2905" /> </p>
 
-🔍 Currently Working On
-AI-Based Health Management System 🆘 | Leveraging AI to enhance health prediction, response, and management for my college project exhibition.
-Winter Sports Tournament - AARAMBH’24 | Organizing and coordinating logistics for inter-college sports events.
-Interactive iOS Tech Talk | Hosting an engaging tech talk to connect aspiring developers with industry experts.
+- 🔭 I’m currently working on **eDOC- An online doctor appointment system.**
 
-🌟 Goals
-Expand My Knowledge: Exploring advanced AI/ML techniques and diving into topics like data science, deep learning, and reinforcement learning.
-Secure an Internship: Targeting an internship in tech by the beginning of my 3rd year to gain industry insights and hands-on experience.
-Collaborate: Looking forward to working on collaborative projects that focus on real-world applications.
+- 🌱 I’m currently learning **SQL , DBMS**
 
-💼 Skills
-Languages: Python, C++
-Libraries & Frameworks: Tkinter, Numpy, Pandas
-Tools: Git, Jupyter Notebook, VS Code
-Core Concepts: Probability & Statistics, Computer Architecture, Human-Computer Interaction, Basic Banking Systems
+- 👯 I’m looking to collaborate on **AI integrated CHATBOT**
 
-📚 What I’m Learning
-Advanced Python Programming: From GUI development to solving complex data problems.
-Mathematics for Machine Learning: Probability, Statistics, Linear Algebra, and Calculus.
-Project Management: Event organization, effective teamwork, and collaboration.
+- 💬 Ask me about **DATA ANALYST**
 
-🔗 Connect with Me
-LinkedIn: www.linkedin.com/in/diwakar-mishra-52a0b6300
-Email: diwakarmishra2905@gmail.com
+- 📫 How to reach me **diwakarmishra2905@gmail.com**
+
+- ⚡ Fun fact **I have experience of event management by serving as the Assistant Sports Secretary of VIT BHOPAL UNIVERSITY.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/diwakar-mishra2905?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diwakar-mishra2905?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__diwakarmishra?igsh=mtvpbgppbmfoenp4dg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__diwakarmishra?igsh=mtvpbgppbmfoenp4dg==" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar2905&show_icons=true&locale=en&layout=compact" alt="diwakar2905" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar2905&show_icons=true&locale=en" alt="diwakar2905" /></p>
