@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Crop and Fertilizer recommending system using Machine Learning.<br>👯 I’m looking to collaborate on real world problem solving work.<br>🌱.<br>💬 Ask me about Web development.<br>
+🔭 I’m currently working on a Crop and Fertilizer recommending system using Machine Learning.<br>👯 I’m looking to collaborate on real world problem solving work.<br>🌱.<br>💬 Ask me about data analyst.<br>
 
 
 ## 🌐 Socials:
