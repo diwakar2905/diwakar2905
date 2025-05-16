@@ -81,8 +81,6 @@
 
 ### 📊 Visitor Count
 
-### 📊 Visitor Counter
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/diwakar2905/count.svg" alt="Visitor Count" />
 </p>
