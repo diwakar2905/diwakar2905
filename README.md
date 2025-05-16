@@ -81,7 +81,10 @@
 
 ### 📊 Visitor Count
 
+### 📊 Visitor Counter
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diwakar2905&style=flat&color=blue" alt="Visitor count"/>
+  <img src="https://profile-counter.glitch.me/diwakar2905/count.svg" alt="Visitor Count" />
 </p>
+
 
