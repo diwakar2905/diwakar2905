@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on a **Crop and Fertilizer Recommendation System** using Machine Learning.
+- 🔭 I’m currently working on a **SAFAR-AI POWERED TRAVEL PLANNER** .
 - 💬 Ask me about **Data Analysis**, **Python**, or **ML Projects**.
 - 🤝 Open to collaborating on **real-world problems** and impactful ideas.
 - 📫 Reach me at **[diwakarmishra2905@gmail.com](mailto:diwakarmishra2905@gmail.com)**
