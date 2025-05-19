@@ -71,11 +71,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=diwakar2905&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
----
-
-### 📬 Sign the Guestbook!
-
-> 💌 Feel free to [drop a fun fact or a joke](https://github.com/JasonEtco) on my fellow dev @JasonEtco’s guestbook – just for fun! 😄
 
 ---
 
