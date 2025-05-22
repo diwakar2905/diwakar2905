@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diwakar2905/<repo-name>/main/assets/8405b8fa-33ea-47e9-81e1-5c017524f15c.png" alt="Tech Stack Banner" />
-</p>
 
 <h1 align="center">👋 Hello, World! I'm Diwakar Mishra</h1>
 
