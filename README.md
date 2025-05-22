@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diwakar2905/<repo-name>/main/assets/8405b8fa-33ea-47e9-81e1-5c017524f15c.png" alt="Tech Stack Banner" />
+</p>
+
 <h1 align="center">👋 Hello, World! I'm Diwakar Mishra</h1>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213916011-5c1f34f0-3db4-4b78-87c1-4e6f8795ad81.gif" alt="header image" />
 </p>
@@ -11,7 +16,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on a **SAFAR-AI POWERED TRAVEL PLANNER** .
+- 🔭 I’m currently working on a **SAFAR - AI POWERED TRAVEL PLANNER**.
 - 💬 Ask me about **Data Analysis**, **Python**, or **ML Projects**.
 - 🤝 Open to collaborating on **real-world problems** and impactful ideas.
 - 📫 Reach me at **[diwakarmishra2905@gmail.com](mailto:diwakarmishra2905@gmail.com)**
@@ -71,7 +76,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=diwakar2905&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-
 ---
 
 ### 📊 Visitor Count
@@ -79,5 +83,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/diwakar2905/count.svg" alt="Visitor Count" />
 </p>
-
-
