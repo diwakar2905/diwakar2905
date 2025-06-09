@@ -9,6 +9,11 @@
   💡 ML Enthusiast | 📊 Aspiring Data Analyst | 🌱 Lifelong Learner  
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -28,16 +33,24 @@
 
 ---
 
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🛠️ **Tech Stack & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### 📈 GitHub Stats
 
