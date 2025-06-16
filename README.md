@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💡 ML Enthusiast | 📊 Aspiring Data Analyst | 🌱 Lifelong Learner  
+  💡 ML Enthusiast | 📊 Aspiring Data Analyst 
 </p>
 
 <p align="center">
