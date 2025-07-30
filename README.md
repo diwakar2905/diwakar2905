@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Diwakar Mishra
-<p align="center">💡 Data Science Enthusiast | 📊 Aspiring Data Analyst | 🤖 Python for ML Advocate</p>
+<p align="center">💡 Data Science Enthusiast | 📊 Aspiring Data Analyst</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
