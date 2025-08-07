@@ -65,7 +65,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar2905&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar2905&theme=react&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
