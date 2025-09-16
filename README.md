@@ -86,24 +86,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar2905&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar2905&theme=react&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar2905&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakar2905&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=diwakar2905&theme=dracula" alt="My 3D GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diwakar2905&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
----
 ### <img src="https://media.giphy.com/media/g3Qd94Z6vL6mY/giphy.gif" width="35"> Featured Projects
 
 <table width="100%">
