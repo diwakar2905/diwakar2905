@@ -15,7 +15,6 @@
 
 ### <img src="https://media.giphy.com/media/sp64_K8029p2u3qE4s/giphy.gif" width="35"> About Me
 
-- 🔭 Currently building **SAFAR – An AI-Powered Travel Planner**
 - 🧰 Skilled in **data analysis**, **visualization**, and **machine learning workflows**
 - 📊 Passionate about **turning raw data into insights that drive decisions**
 - 🤝 Open to collaborations on **real-world projects**, especially in public good, travel, and sustainability
