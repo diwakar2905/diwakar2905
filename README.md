@@ -112,11 +112,7 @@
       <td>An NLP-based tool that extracts key information (skills, experience) from resumes and predicts the most suitable job role for the candidate.</td>
       <td align="center">NLP, spaCy/NLTK, Scikit-learn</td>
     </tr>
-    <tr>
-      <td><a href="#"><strong>🛡️ VidGuard – CCTV Emergency Detector</strong></a></td>
-      <td>A computer vision project that monitors CCTV footage in real-time to detect emergencies like accidents or violence and sends alerts automatically.</td>
-      <td align="center">OpenCV, TensorFlow/PyTorch, CV</td>
-    </tr>
+   
   </tbody>
 </table>
 
