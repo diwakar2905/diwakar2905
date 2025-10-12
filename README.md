@@ -18,7 +18,7 @@
                 <a href="https://www.instagram.com/__diwakarmishra/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" /></a>
                 <a href="mailto:diwakarmishra2905@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="35" /></a>
                 <a href="https://www.kaggle.com/diwakarmishra29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="35" /></a>
-                <a href="https://codeforces.com/profile/diwakar2905" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="125" /></a>
+                <a href="https://codeforces.com/profile/diwakar2905" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="145" /></a>
             </p>
         </th>
         <th width="30%">
