@@ -135,8 +135,12 @@
   
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakar2905&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-  <br>
-  <img alt="Snake Animation" src="https://github.com/diwakar2905/diwakar2905/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
