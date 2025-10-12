@@ -1,92 +1,80 @@
+<img align="center" src="banner (1).gif" alt="banner">
+<table>
+    <tr>
+        <th width="70%" align="left">
+            <h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
+            <h3 align="center">💡 Data Science Enthusiast | 📊 Aspiring Data Analyst</h3>
+            <br>
+            <ul align="left">
+                <li>🧰 Skilled in <strong>data analysis</strong>, <strong>visualization</strong>, and <strong>machine learning workflows</strong>.</li>
+                <li>📊 Passionate about <strong>turning raw data into insights that drive decisions</strong>.</li>
+                <li>🤝 Open to collaborations on <strong>real-world projects</strong>, especially in public good, travel, and sustainability.</li>
+                <li>📫 Reach me at: <strong>diwakarmishra2905@gmail.com</strong></li>
+            </ul>
+            <br>
+            <h3 align="center">Connect with me:</h3>
+            <p align="center">
+                <a href="https://www.linkedin.com/in/diwakar-mishra2905/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" /></a>
+                <a href="https://www.instagram.com/__diwakarmishra/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" /></a>
+                <a href="mailto:diwakarmishra2905@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="35" /></a>
+                <a href="https://www.kaggle.com/diwakarmishra29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="35" /></a>
+                <a href="https://codeforces.com/profile/diwakar2905" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="125" /></a>
+            </p>
+        </th>
+        <th width="30%">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" alt="Data Analytics GIF">
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="100%"/>
+        </th>
+    </tr>
+</table>
+
+
+
+<div align="center">
+  
+## 🧠 Technical Skillset
+</div>
+
 <div align="center">
 
-# 👋 Hello, I'm Diwakar Mishra!!
-<p align="center">💡 Data Science Enthusiast | 📊 Aspiring Data Analyst</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5 logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3 logo" />
+<img width="15" />
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="60" alt="Power BI logo" />
+<img width="15" />
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png" height="60" alt="Excel logo" />
+<img width="15" />
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas logo" />
+<img width="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" alt="Scikit-learn logo" />
+<img width="15" />
+<img src="https://matplotlib.org/stable/_static/logo_light.svg" height="60" alt="Matplotlib logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="60" alt="Streamlit logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="Canva logo" />
 
 </div>
 
+<div align="center">
+  
+## 💡Featured Projects
 
-### <img src="https://media.giphy.com/media/sp64_K8029p2u3qE4s/giphy.gif" width="35"> About Me
-
-- 🧰 Skilled in **data analysis**, **visualization**, and **machine learning workflows**
-- 📊 Passionate about **turning raw data into insights that drive decisions**
-- 🤝 Open to collaborations on **real-world projects**, especially in public good, travel, and sustainability
-- 📫 Reach me at: [diwakarmishra2905@gmail.com](mailto:diwakarmishra2905@gmail.com)
-
----
-<br>
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Stack & Tools
-
-<h4 align="center">👨‍💻 Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-<h4 align="center">🗃️ Data & Visualization</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-</p>
-
-<h4 align="center">📚 Libraries & Frameworks</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
-
-<h4 align="center">⚙️ Tools & Platforms</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-</p>
-
-<br>
-
----
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJq_223I/giphy.gif" width="35"> GitHub Analytics
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar2905&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar2905&theme=react&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar2905&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakar2905&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diwakar2905&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJq_223I/giphy.gif" width="35"> GitHub Analytics
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar2905&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-### <img src="https://media.giphy.com/media/g3Qd94Z6vL6mY/giphy.gif" width="35"> Featured Projects
+</div>
 
 <table width="100%">
   <thead>
@@ -109,52 +97,58 @@
     </tr>
     <tr>
       <td><a href="#"><strong>📉 Resume Parser & Role Predictor</strong></a></td>
-      <td>An NLP-based tool that extracts key information (skills, experience) from resumes and predicts the most suitable job role for the candidate.</td>
+      <td>An NLP-based tool that extracts key information from resumes and predicts the most suitable job role for the candidate.</td>
       <td align="center">NLP, spaCy/NLTK, Scikit-learn</td>
     </tr>
-   
   </tbody>
 </table>
 
-> Explore all in [📂 Repositories](https://github.com/diwakar2905?tab=repositories)
+> Explore all my work in [📂 Repositories](https://github.com/diwakar2905?tab=repositories)
 
----
-
-### <img src="https://media.giphy.com/media/QE3mPZ2Fqg6A42b1iV/giphy.gif" width="35"> Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/diwakar-mishra2905/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__diwakarmishra/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:diwakarmishra2905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/diwakarmishra29">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/diwakar2905">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
----
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=diwakar2905&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Visitor count badge" />
-<br><br>
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  
+## 📊 GitHub Analytics
 </div>
 
- ---
+<table>
+    <tr>
+        <th>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar2905&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+        </th>
+        <th>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar2905&theme=react&hide_border=true" alt="GitHub Streak"/>
+        </th>
+    </tr>
+</table>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar2905&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diwakar2905&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+
+<div align="center">
+  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakar2905&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <br>
+  <img alt="Snake Animation" src="https://github.com/diwakar2905/diwakar2905/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=diwakar2905&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Visitor count badge" />
+  <br>
+</div>
+
+---
+
 <img align="left" height="237" src="https://media.giphy.com/media/u62hvv4QL0is/giphy.gif?cid=790b76113zt1gxmzcfm1e2102z02x917oz7ut6djwbda9du9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
