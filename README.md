@@ -3,7 +3,6 @@
     <tr>
         <th width="70%" align="left">
             <h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
-            <h3 align="center">💡 Data Science Enthusiast | 📊 Aspiring Data Analyst</h3>
             <br>
             <ul align="left">
                 <li>🧰 Skilled in <strong>data analysis</strong>, <strong>visualization</strong>, and <strong>machine learning workflows</strong>.</li>
