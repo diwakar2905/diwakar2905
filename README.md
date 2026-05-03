@@ -71,41 +71,6 @@
 
 <div align="center">
   
-## 💡Featured Projects
-
-</div>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="25%">Project</th>
-      <th width="50%">Description</th>
-      <th width="25%">Key Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="#"><strong>🧠 SAFAR – AI Travel Planner</strong></a></td>
-      <td>An intelligent travel planning application that generates personalized itineraries using AI. Helps users discover destinations, plan routes, and manage bookings seamlessly.</td>
-      <td align="center">Python, Streamlit, AI/ML APIs</td>
-    </tr>
-    <tr>
-      <td><a href="#"><strong>🌾 Fertilizer Recommender</strong></a></td>
-      <td>A machine learning model that analyzes soil data (N, P, K values, moisture, etc.) to recommend the optimal fertilizer type for improved crop yield.</td>
-      <td align="center">Scikit-learn, Pandas, Matplotlib</td>
-    </tr>
-    <tr>
-      <td><a href="#"><strong>📉 Resume Parser & Role Predictor</strong></a></td>
-      <td>An NLP-based tool that extracts key information from resumes and predicts the most suitable job role for the candidate.</td>
-      <td align="center">NLP, spaCy/NLTK, Scikit-learn</td>
-    </tr>
-  </tbody>
-</table>
-
-> Explore all my work in [📂 Repositories](https://github.com/diwakar2905?tab=repositories)
-
-
-<div align="center">
   
 ## 📊 GitHub Analytics
 </div>
